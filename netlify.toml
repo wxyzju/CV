@@ -1,0 +1,17 @@
+[build]
+  publish = "dist"
+
+[[redirects]]
+  from = "/research"
+  to = "/research.html"
+  status = 200
+
+[[redirects]]
+  from = "/teaching"
+  to = "/teaching.html"
+  status = 200
+
+[[redirects]]
+  from = "/counseling"
+  to = "/counseling.html"
+  status = 200

@@ -1,10 +1,7 @@
 # Xuanyi Wang · Academic Homepage
 
-Bilingual static academic homepage.
+Website: https://xuanyi-wang-nature.netlify.app
 
-- Website: https://xuanyi-wang-nature.netlify.app
-- Publish directory: `dist`
-- Build command: none
-- Production branch: `main`
+Publish directory: `dist`; no build command. Production branch: `main`.
 
-Edit the files in `dist/` and push to main after reviewing changes. Netlify Git integration must be connected before automatic publishing is active.
+Automatic publishing requires linking this repository in Netlify.
